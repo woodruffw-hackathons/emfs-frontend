@@ -1,6 +1,6 @@
 # Site settings
 title: emfs 
-email: william+emfs@tuffbizz.com
+email: bc2015emfs@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   EMFS is an email based filesystem. Utilizing plain old SMTP and IMAP, EMFS can
   mount any email account (from any provider) as a fully functional filesystem
